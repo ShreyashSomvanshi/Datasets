@@ -6,7 +6,6 @@ This Repository includes some of the basic and valid datasets for ML/DS projects
 ## Free Dataset Sources:
 
 <ul>
-    
     <li><a href="https://data.gov.in/" target="_blank">https://data.gov.in/ </a></li><br/>
 
     <li><a href="https://medium.com/@vpsfahad/where-to-get-india-government-datasets-for-data-analytics-17bf359a5afd" target="_blank"> https://medium.com/@vpsfahad/where-to-get-india-government-datasets-for-data-analytics-17bf359a5afd</a></li><br/>
@@ -42,6 +41,4 @@ This Repository includes some of the basic and valid datasets for ML/DS projects
     <li><a href="https://data.fivethirtyeight.com/" target="_blank"> https://data.fivethirtyeight.com/</a></li><br/>
 
     <li><a href="https://grouplens.org/datasets/" target="_blank"> https://grouplens.org/datasets/</a></li><br/>
-
-
 </ul>
